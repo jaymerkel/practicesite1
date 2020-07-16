@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Home Page</title>
+<link href="_css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>Homepage</h1>
+<nav>
+  <ul>
+    <li><a href="index.html">Home Page</a></li>
+    <li><a href="Course_of_Study.html">Course of Study</a></li>
+    <li><a href="Creative_Portfolio.html">Creative Portfolio</a></li>
+    <li><a href="My_Story.html">My Story</a></li>
+  </ul>
+</nav>
+    <article>
+        <p> <img src="https://live.staticflickr.com/65535/50120096501_1294af33f3_h.jpg" width="300" height="400" alt="Jay Merkel" align="left">My name is Jordan "Jay" Andrew Merkel. I am a student at George Mason University from Vienna, Virginia. I am studying Writing and Rhetoric in the English department. I plan to earn a BA in English with a minor in Spanish. After I graduate, I hope to publish my first fiction book series as a billingual audio drama. 
+        </p>
+    </article>
+    <p>
+     
+        </p>
+    <footer>
+        <p> &copy;Jordan Merkel 2020
+        </p>
+    </footer>
+</body>
